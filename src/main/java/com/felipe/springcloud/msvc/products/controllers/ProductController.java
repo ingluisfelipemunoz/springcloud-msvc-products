@@ -2,7 +2,7 @@ package com.felipe.springcloud.msvc.products.controllers;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import com.felipe.springcloud.msvc.products.entities.Product;
+import com.felipe.libs.msvc.commons.entities.Product;
 import com.felipe.springcloud.msvc.products.services.ProductService;
 
 import java.util.List;

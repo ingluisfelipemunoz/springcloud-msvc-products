@@ -3,7 +3,7 @@ package com.felipe.springcloud.msvc.products.services;
 import java.util.List;
 import java.util.Optional;
 
-import com.felipe.springcloud.msvc.products.entities.Product;
+import com.felipe.libs.msvc.commons.entities.Product;
 
 public interface ProductService {
     List<Product> findAll();
